@@ -1,0 +1,59 @@
+{
+  "version": "2.1.0",
+  "$schema": "https://schemastore.azurewebsites.net/schemas/json/sarif-2.1.0-rtm.5.json",
+  "runs": [
+    {
+      "results": [],
+      "tool": {
+        "driver": {
+          "name": "PREfast",
+          "fullName": "PREfast Code Analysis",
+          "version": "14.39.33522.0",
+          "informationUri": "https://aka.ms/cpp/ca"
+        }
+      },
+      "invocations": [
+        {
+          "executionSuccessful": true
+        }
+      ],
+      "artifacts": [
+        {
+          "location": {
+            "uri": "file:///c:/users/alexg/cs201-program10-part2-duke1235/cs201wk9apart2template/student.cpp"
+          },
+          "roles": [
+            "analysisTarget"
+          ],
+          "hashes": {
+            "sha-256": "cf1f9d4a6c8b578086cb9993453123fbb610b033093899d56037e74986b09020"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/alexg/cs201-program10-part2-duke1235/cs201wk9apart2template/student.h"
+          },
+          "hashes": {
+            "sha-256": "a4f05906ed805c2823ffda43a057f74bfe774edd5a254d124ed0bdeddbc0bbae"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/alexg/cs201-program10-part2-duke1235/cs201wk9apart2template/person.h"
+          },
+          "hashes": {
+            "sha-256": "bb94e7564a912345124b9923580d2914729d9645c0d6ef72ef0efc60248d8bd2"
+          }
+        },
+        {
+          "location": {
+            "uri": "file:///c:/users/alexg/cs201-program10-part2-duke1235/cs201wk9apart2template/pet.h"
+          },
+          "hashes": {
+            "sha-256": "b77e4b11843e4c30cad5f5a56c0ea3b20f9a2dcfc27d70a15e51320a537b09d1"
+          }
+        }
+      ]
+    }
+  ]
+}

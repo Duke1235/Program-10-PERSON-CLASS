@@ -1,0 +1,13 @@
+﻿  CS201Wk9aPart2Template.cpp
+  Employee.cpp
+  Function.cpp
+  Person.cpp
+  Pet.cpp
+  Staff.cpp
+  Student.cpp
+  Teacher.cpp
+  Teacher.h
+  Generating Code...
+  LINK : C:\Users\alexg\cs201-program10-part2-Duke1235\x64\Debug\CS201Wk9aPart2Template.exe not found or not built by the last incremental link; performing full link
+x64\Debug\Teacher.obj : warning LNK4042: object specified more than once; extras ignored
+  CS201Wk9aPart2Template.vcxproj -> C:\Users\alexg\cs201-program10-part2-Duke1235\x64\Debug\CS201Wk9aPart2Template.exe
