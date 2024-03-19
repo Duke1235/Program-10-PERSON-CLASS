@@ -6,6 +6,7 @@
 /*
 Name:Alex Ghasemi
 Program: PERSON CLASS - 10
+Sources: GPT for help with pet class and other
 PSUEDO CODE:
 Read the file, inputing the data into vectors for each class and then into the all persons class,
 catch any data that is not compatable
